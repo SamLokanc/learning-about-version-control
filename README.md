@@ -1,1 +1,2 @@
-# learning-about-version-control
+# Learning Abount Version Control
+Author: Sam Lokanc
